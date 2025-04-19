@@ -9,3 +9,13 @@ Esrc/test/java/Meesho_Automation_TestComponent/Launch_Application.java,a\1\a1b3
 Ssrc/test/java/Meesho_Automation_Impletentation/Validate_InitialSetUp_MeeshoApp.java,b\8\b86e85adc1a864e6cf7c465301f5986a284bbd33
 ç
 ]src/test/java/Meesho_Automation_Impletentation/Validate_PLP_And_PDP_Details_Are_Matching.java,f\a\fa5c58e867c5a52d56be38c2af7daa068b86617b
+ô
+isrc/test/java/Meesho_Automation_Impletentation/Validate_Categories_Section_Is_Navigation_As_Expected.java,3\a\3ace503e9dff1f15675fc85d77ffe584843ae297
+
+Osrc/test/java/Meesho_Automation_Impletentation/Validating_GenderFilter_PLP.java,c\1\c111b10411ca647b8a953e20033c83a3b7b68ac5
+~
+Nsrc/test/java/Meesho_Automation_Impletentation/validating_Search_txtField.java,1\e\1e4a86dc3f29687447e0703ab45312fb3be1edd1
+
+Osrc/test/java/Meesho_Automation_Impletentation/Validate_Sort_Functionality.java,8\5\8579f06e438f6fe9ae1314c76b080bc14f16f3c6
+z
+Jsrc/test/java/Meesho_Automation_Impletentation/Validate_Delivery_date.java,2\b\2beb5539772b5fbeac63fa4f987d28f547337f3c
