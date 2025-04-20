@@ -1,22 +1,25 @@
 package Meesho_Automation_Impletentation;
-
-import Meesho_Automation_TestComponent.Launch_Application;
+import Meesho_Automation_TestComponent.BaseClass;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+import org.testng.annotations.Test;
 import java.time.Duration;
 
 public class Validating_GenderFilter_PLP {
     public static AndroidDriver driver;
     public static String productName = "jeans";
 
+
+
+
+
     public static void main(String[] args) throws InterruptedException {
 
 
-        Launch_Application launch = new Launch_Application();
+        BaseClass launch = new BaseClass();
         driver = launch.launhMeeshoAppWithSessonsaved();
         System.out.println("launched Application");
         Thread.sleep(15000);

@@ -1,6 +1,6 @@
 package Meesho_Automation_Impletentation;
 
-import Meesho_Automation_TestComponent.Launch_Application;
+import Meesho_Automation_TestComponent.BaseClass;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -15,9 +15,9 @@ public class Validate_InitialSetUp_MeeshoApp {
 
     public static void main(String[] args) throws InterruptedException {
 
-        Launch_Application launch = new Launch_Application();
+        BaseClass launch = new BaseClass();
         System.out.println("Meesho Launch Initiated");
-        driver = launch.launhMeeshoApp();
+      //  driver = launch.launhMeeshoApp();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         System.out.println("Successfully Meesho Launched");
         WebElement allow_btn = driver.findElement(By.id("com.android.permissioncontroller:id/permission_allow_button"));

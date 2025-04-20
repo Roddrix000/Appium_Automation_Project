@@ -1,1 +1,4 @@
-com\Meesho\Main.class
+Meesho_Automation_PageObjects\Home_Decor_Screen.class
+Meesho_Automation_PageObjects\HomeScreen.class
+Meesho_AbstractComponents\AbstractComponents.class
+Meesho_Automation_PageObjects\PLP_Screen.class
